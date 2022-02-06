@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Emp_Excel_SSIS", "Emp_Excel_SSIS\Emp_Excel_SSIS.dtproj", "{3F3F0D9A-22DE-4DC7-B3FC-EBA05B4009F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F3F0D9A-22DE-4DC7-B3FC-EBA05B4009F8}.Development|Default.ActiveCfg = Development
+		{3F3F0D9A-22DE-4DC7-B3FC-EBA05B4009F8}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8D55504-E120-4F05-9E76-C255F09D8349}
+	EndGlobalSection
+EndGlobal
